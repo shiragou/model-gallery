@@ -6,7 +6,7 @@ description: |
 license: "LLaMA"
 urls:
 - https://bair.berkeley.edu/blog/2023/04/03/koala/
-- https://github.com/young-geng/EasyLM
+- https://ghproxy.com/https://github.com/young-geng/EasyLM
 
 config_file: |
     backend: llama

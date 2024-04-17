@@ -4,7 +4,7 @@ description: |
 
 license: ""
 urls:
-- https://github.com/Guanaco-Model/Guanaco-Model.github.io
+- https://ghproxy.com/https://github.com/Guanaco-Model/Guanaco-Model.github.io
 
 config_file: |
     backend: llama

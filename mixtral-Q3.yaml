@@ -5,7 +5,7 @@ description: |
 
 license: "https://www.apache.org/licenses/LICENSE-2.0"
 urls:
-- https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF
+- https://hf-mirror.com/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF
 
 config_file: |
   name: mixtral-8x7B-Q3_K_M
@@ -39,4 +39,4 @@ prompt_templates:
 files:
 - filename: "mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf"
   sha256: "bd2e1499e68195f1a6ff151e6fa5c6632acc150b80cca4a3772cbb7ca59d44cd"
-  uri: "https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf"
+  uri: "https://hf-mirror.com/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf"

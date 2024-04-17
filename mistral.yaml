@@ -5,7 +5,7 @@ description: |
 
 license: "https://ai.meta.com/llama/license/"
 urls:
-- https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF
+- https://hf-mirror.com/TheBloke/Mistral-7B-OpenOrca-GGUF
 
 config_file: |
   name: mistral
@@ -42,4 +42,4 @@ prompt_templates:
 files:
 - filename: "mistral-7b-openorca.Q6_K.gguf"
   sha256: "21dd6b5a62e18dcc2e859315d485707d5df98b6b3a7b2a57ed378bcf790109f9"
-  uri: "https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/resolve/main/mistral-7b-openorca.Q6_K.gguf"
+  uri: "https://hf-mirror.com/TheBloke/Mistral-7B-OpenOrca-GGUF/resolve/main/mistral-7b-openorca.Q6_K.gguf"

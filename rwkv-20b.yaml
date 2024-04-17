@@ -1,7 +1,7 @@
 name: "rwkv-20b"
 license: "Apache 2.0"
 urls:
-- https://github.com/BlinkDL/RWKV-LM
+- https://ghproxy.com/https://github.com/BlinkDL/RWKV-LM
 description: |
     RWKV is an RNN with Transformer-level LLM performance, which can also be directly trained like a GPT transformer (parallelizable).
     And it's 100% attention-free. You only need the hidden state at position t to compute the state at position t+1. 

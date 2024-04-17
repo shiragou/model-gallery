@@ -5,7 +5,7 @@ description: |
 
 license: "LLaMA"
 urls:
-- https://github.com/nlpxucan/WizardLM
+- https://ghproxy.com/https://github.com/nlpxucan/WizardLM
 
 config_file: |
     parameters:

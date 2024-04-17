@@ -6,7 +6,7 @@ description: |
 license: "Apache 2.0"
 
 urls:
-- https://github.com/nlpxucan/WizardLM
+- https://ghproxy.com/https://github.com/nlpxucan/WizardLM
 
 config_file: |
   name: wizardcode13b
@@ -29,7 +29,7 @@ config_file: |
 files:
     - filename: "WizardCoder-15B-1.0.ggmlv3.q4_1.bin"
       sha256: "6a335230205f280b91d3cc2606a2e2b499be56301917d04a4a14606c15ad9d63"
-      uri: "https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GGML/resolve/main/WizardCoder-15B-1.0.ggmlv3.q4_1.bin"
+      uri: "https://hf-mirror.com/TheBloke/WizardCoder-15B-1.0-GGML/resolve/main/WizardCoder-15B-1.0.ggmlv3.q4_1.bin"
 
 prompt_templates:
 - name: "wizardcode-completion"

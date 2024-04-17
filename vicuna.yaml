@@ -5,7 +5,7 @@ description: |
 
 license: "LLaMA"
 urls:
-- https://github.com/lm-sys/FastChat
+- https://ghproxy.com/https://github.com/lm-sys/FastChat
 
 config_file: |
     backend: llama

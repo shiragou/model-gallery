@@ -5,7 +5,7 @@ description: |
 
 license: "Apache 2.0"
 urls:
-- https://github.com/baichuan-inc/Baichuan-7B
+- https://ghproxy.com/https://github.com/baichuan-inc/Baichuan-7B
 
 config_file: |
     backend: llama
@@ -21,7 +21,7 @@ config_file: |
 files:
     - filename: "baichuan-vicuna-7b.ggmlv3.q4_0.bin"
       sha256: "d7c12bccc40098830a18d2f3a42020d243396d240b6020a0f2daace6b203d444"
-      uri: "https://huggingface.co/TheBloke/baichuan-vicuna-7B-GGML/resolve/main/baichuan-vicuna-7b.ggmlv3.q4_0.bin"
+      uri: "https://hf-mirror.com/TheBloke/baichuan-vicuna-7B-GGML/resolve/main/baichuan-vicuna-7b.ggmlv3.q4_0.bin"
 
 prompt_templates:
 - name: "baichuan-completion"
